@@ -1,0 +1,1 @@
+// Lógica da IA estatística: analisa 10 últimos jogos

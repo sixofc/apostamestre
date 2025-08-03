@@ -1,0 +1,1 @@
+// Página dinâmica de ligas - será populada com dados da API

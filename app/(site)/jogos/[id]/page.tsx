@@ -1,0 +1,1 @@
+// Página de análise IA - será populada com estatísticas e sugestão de aposta

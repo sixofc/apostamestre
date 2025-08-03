@@ -1,0 +1,1 @@
+// Funções para buscar dados da API de futebol
